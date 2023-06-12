@@ -70,3 +70,18 @@ fieldset {
     flex-direction: column;
     flex-grow: 1;
 }
+
+.btn {
+    padding: 10px 20px;
+    background: #FFFFFF;
+    border-radius: 15px;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #365ABA;
+}
+
+.btn_castlink {
+    background: #FFFFFF;
+    color: #365ABA;
+}
